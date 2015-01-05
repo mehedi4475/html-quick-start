@@ -1,0 +1,33 @@
+/*		Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	body{
+		background-color: red;
+	}
+}
+
+
+
+/*		Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	
+	body{
+		background-color: green;
+	}
+	
+}
+
+
+
+/*		Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	body{
+		background-color: yellow;
+	}
+
+}
+
